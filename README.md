@@ -1,13 +1,9 @@
 # university-website-outlook
-Hey guys....!
-This is my University website out look ,Just done for mini project as i am bored...but it looked great.
-Have the code if u want,Download it ,and use index.html to start the website.
-.
-.
-
-.
-.
-.
-.
-Demo video.
-link:https://reddys-university-website.herokuapp.com/
+Hey guys....!<br>
+This is my own University website out look ,Just done as mini project as i am bored...but it looked great.
+1.use index.html to run the website.<br>
+<b>#Hope u like the project.<br>
+#Feel free to download the source code and follow for new projects.<br>
+#dont foget to give a star if u like the project.<br>
+Demo video
+link:https://reddys-university-website.herokuapp.com/</b>
